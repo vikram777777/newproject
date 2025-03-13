@@ -1,0 +1,7 @@
+class vicky{ 
+ 
+
+             public static void main(string[] args){
+               system.out.println("This is the first program here");
+}
+}
