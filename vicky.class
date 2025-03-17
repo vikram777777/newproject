@@ -3,5 +3,6 @@ class vicky{
 
              public static void main(string[] args){
                system.out.println("This is the first program here");
+               system.out.println("second line added now to the program");
 }
 }
